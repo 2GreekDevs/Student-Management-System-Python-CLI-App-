@@ -1,0 +1,13 @@
+[
+    {
+        "name": "2Greek Devs",
+        "am": "1234",
+        "age": "20",
+        "courses": {
+            "Maths": 8.5,
+            "Computer Science": 7.0,
+            "Physics": 9.0,
+            "Chemistry": 8.0
+        }
+    },
+]
